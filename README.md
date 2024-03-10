@@ -55,6 +55,14 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilamper&show_icons=true&locale=en&layout=compact" alt="kilamper" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kilamper&show_icons=true&locale=en" alt="kilamper" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kilamper&" alt="kilamper" /></p>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kilamper.Kilamper&"  />
 </div>
