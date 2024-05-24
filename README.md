@@ -66,9 +66,9 @@
 
 <div align="center">
 
-![Kilamper's Stats](https://github-readme-stats.vercel.app/api?username=Kilamper&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true)
-![Kilamper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilamper&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&langs_count=8)
-![Kilamper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kilamper&theme=github_dark_dimmed&hide_border=true)
+[![Kilamper's Stats](https://github-readme-stats.vercel.app/api?username=Kilamper&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kilamper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilamper&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Kilamper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kilamper&theme=github_dark_dimmed&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
