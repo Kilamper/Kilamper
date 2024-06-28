@@ -53,6 +53,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo" title="Astro" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" height="40" title="Angular"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" title="GitHub" />
 </div>
 
