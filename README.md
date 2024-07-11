@@ -66,19 +66,10 @@
 
 <div align="center">
 
-[![Kilamper's Stats](https://github-readme-stats.vercel.app/api?username=Kilamper&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Kilamper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilamper&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Kilamper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kilamper&theme=github_dark_dimmed&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![Kilamper's Stats](https://github-readme-stats.vercel.app/api?username=Kilamper&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Kilamper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilamper&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Kilamper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kilamper&theme=github_dark_dimmed&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-</div>
-
-###
-
-<h3 align="left">🌐  My Website :</h3>
-
-<div align="center">
-  <a href="https://kilamper.netlify.app" target="_blank">![image](https://github.com/Kilamper/Kilamper/assets/73082382/a4575844-c34c-4706-b9d6-60fb2cc5c883)</a>
-  ![02900cae-d7c6-45a9-8146-150196b8b1a3](https://github.com/Kilamper/Kilamper/assets/73082382/8a8f8761-6549-4bf5-a37d-1ae6a9718c67)
 </div>
 
 ###
