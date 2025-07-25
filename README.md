@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Kilian Armas Pérez from Canary Islands/Spain.<br><br>- 📚 I'm currently studying Computer Engineering at the ULPGC.</p>
+<p align="left">I'm Kilian Armas Pérez from Canary Islands/Spain.<br><br>- 📚 I have a degree in Computer Engineering from the ULPGC.</p>
 
 ###
 
