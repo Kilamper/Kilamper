@@ -8,7 +8,7 @@
 
 ###
 
-<a width="full" href="https://kilamper.netlify.app">![Github Banner](https://github.com/user-attachments/assets/339d3f7b-6ae8-4f2d-bf4e-415ce44a1d57)</a>
+<a width="full" href="https://kilamper.netlify.app">![Github Banner](https://github.com/user-attachments/assets/ade34a69-9981-49cc-a002-75bfbf8b6b44)</a>
 
 ###
 
