@@ -17,6 +17,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kilamper.netlify.app-00d4ff?style=for-the-badge&logo=netlify&logoColor=white)](https://kilamper.netlify.app)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Kilian_Armas_Pérez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kilamper)
 
 </div>
 
