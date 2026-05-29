@@ -83,18 +83,19 @@ const kilian = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Databases & Cloud
+### Databases, APIs & Cloud
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Tools & IDEs
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=gray)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
@@ -115,95 +116,7 @@ const kilian = {
 
 </div>
 
-<!--
-  OPCIÓN B — con GitHub Actions (más estable, SVGs guardados en tu repo)
-  Una vez configurada la Action, sustituye las URLs de arriba por estas:
-
-  ![](https://raw.githubusercontent.com/Kilamper/Kilamper/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-  ![](https://raw.githubusercontent.com/Kilamper/Kilamper/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-  ![](https://raw.githubusercontent.com/Kilamper/Kilamper/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-  ![](https://raw.githubusercontent.com/Kilamper/Kilamper/main/profile-summary-card-output/github_dark/3-stats.svg)
-  ![](https://raw.githubusercontent.com/Kilamper/Kilamper/main/profile-summary-card-output/github_dark/4-productive-time.svg)
--->
-
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Kilamper/Kilamper/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<details>
-<summary>⚙️ Setup: Stats Action + Snake Animation</summary>
-
-<br>
-
-**1. Stats cards — `.github/workflows/summary-cards.yml`**
-
-```yaml
-name: GitHub-Profile-Summary-Cards
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
-          UTC_OFFSET: 1
-```
-
-Requiere un **Personal Access Token** (PAT) con permisos `repo` guardado como secret `SUMMARY_GITHUB_TOKEN`.
-
-**2. Snake — `.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-En **Settings → Actions → General** activa *Read and write permissions*.
-
-</details>
-
-<br>
--->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                -->
