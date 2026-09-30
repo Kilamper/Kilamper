@@ -35,7 +35,7 @@ const kilian = {
   education:  "Computer Engineering — ULPGC",
   role:       "Full-Stack Developer",
   interests:  ["Web Development", "Clean Architecture", "Open Source"],
-  portfolio:  "https://kilamper.netlify.app",
+  portfolio:  "https://kilamper.vercel.app",
 };
 ```
 
